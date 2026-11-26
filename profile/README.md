@@ -7,28 +7,46 @@ and the unglamorous parts: backups, certificates, updates at inconvenient hours.
 
 ## Project areas
 
+Browse the project areas on [Committed Sins](https://committedsins.dev/company/#projects). Each area lists public Aureka repositories with the matching topic.
+
 | Topic | Title | Slug |
 | --- | --- | --- |
 | aureka-photos | Aureka Photos | aureka-photos |
 | website | Sites | websites |
 
-## Photon
+## aureka.photos
 
-[Photon](https://github.com/aurekasystems/photon) is our first product: an
-[Immich](https://immich.app) fork powering [aureka.photos](https://aureka.photos).
-Photos, self-hosted, on infrastructure we maintain ourselves.
+[aureka.photos](https://aureka.photos) is our first product. It uses an
+[Immich](https://immich.app) fork on infrastructure we maintain ourselves.
 
 ## Elsewhere
 
 [aureka.at](https://aureka.at) · [aureka.photos](https://aureka.photos) · hello@aureka.at
 
 <!--
+Project metadata for the directory on committedsins.dev.
 
-**Here are some ideas to get you started:**
+## Websites
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Public websites from Aureka Systems.
+
+| Project | What it does | Status |
+| --- | --- | --- |
+| [aureka.at](https://github.com/aurekasystems/aureka.at) | Aureka’s corporate website. | [Live site](https://aureka.at/) |
+| [aureka.photos landing page](https://github.com/aurekasystems/aureka.photos) | The public landing page for aureka.photos. | [Live site](https://aureka.photos/) |
+| [aureka.space](https://github.com/aurekasystems/aureka.space) | The Aureka Space website. | [Live site](https://aureka.space/) |
+
+## aureka.photos
+
+A photo library and backup service built on Immich.
+
+**Publication:** Development
+
+[Visit aureka.photos](https://aureka.photos/)
+
+| Project | What it does | Status |
+| --- | --- | --- |
+| [Landing page](https://github.com/aurekasystems/aureka.photos) | The public landing page for aureka.photos. | [Live site](https://aureka.photos/) |
+| [Service code](https://github.com/aurekasystems/photon) | The Immich fork that powers aureka.photos. | In development |
+
 -->
