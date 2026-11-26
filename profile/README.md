@@ -9,7 +9,8 @@ and the unglamorous parts: backups, certificates, updates at inconvenient hours.
 
 | Topic | Title | Slug |
 | --- | --- | --- |
-| website | Websites | websites |
+| aureka-photos | Aureka Photos | aureka-photos |
+| website | Sites | websites |
 
 ## Photon
 
