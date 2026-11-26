@@ -5,6 +5,12 @@ Cloud computing and administration, based in Austria.
 We run infrastructure and the software that sits on it — hosting, deployment,
 and the unglamorous parts: backups, certificates, updates at inconvenient hours.
 
+## Project areas
+
+| Topic | Title | Slug |
+| --- | --- | --- |
+| website | Websites | websites |
+
 ## Photon
 
 [Photon](https://github.com/aurekasystems/photon) is our first product: an
