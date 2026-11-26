@@ -5,14 +5,20 @@ Cloud computing and administration, based in Austria.
 We run infrastructure and the software that sits on it — hosting, deployment,
 and the unglamorous parts: backups, certificates, updates at inconvenient hours.
 
+## About
+
+I founded Aureka Systems e.U. to build services that give people more control over their digital lives.
+
+[Visit aureka.at](https://aureka.at/)
+
 ## Project areas
 
-Browse the project areas on [Committed Sins](https://committedsins.dev/company/#projects). Each area lists public Aureka repositories with the matching topic.
+Browse the project areas on [Committed Sins](https://committedsins.dev/organization/aureka-systems/#projects). Each area lists public Aureka repositories with the matching topic.
 
 | Topic | Title | Slug |
 | --- | --- | --- |
 | aureka-photos | Aureka Photos | aureka-photos |
-| website | Sites | websites |
+| website | Sites | sites |
 
 ## aureka.photos
 
@@ -26,7 +32,7 @@ Browse the project areas on [Committed Sins](https://committedsins.dev/company/#
 <!--
 Project metadata for the directory on committedsins.dev.
 
-## Websites
+## Sites
 
 Public websites from Aureka Systems.
 
