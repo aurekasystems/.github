@@ -47,6 +47,6 @@ A photo library and backup service built on Immich.
 | Project | What it does | Status |
 | --- | --- | --- |
 | [Landing page](https://github.com/aurekasystems/aureka.photos) | The public landing page for aureka.photos. | [Live site](https://aureka.photos/) |
-| [Service code](https://github.com/aurekasystems/photon) | The Immich fork that powers aureka.photos. | In development |
+| [Photon](https://github.com/aurekasystems/photon) | The Immich fork that powers aureka.photos. | In development |
 
 -->
